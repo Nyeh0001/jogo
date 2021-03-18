@@ -1,3 +1,7 @@
+# Coded by Nyeh
+# Jogo Ballet v1.0.0
+# https://github.com/Nyeh0001/jogo
+
 from os import system, name as OSname
 from getkey import getkey, keys
 from threading import Thread
