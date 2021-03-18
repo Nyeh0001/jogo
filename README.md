@@ -7,4 +7,4 @@
 
 # Quem quiser ver um pouco do jogo e também tenha interesse em jogar, o link está logo abaixo:
 
-[![Run on Repl.it](https://repl.it/badge/github/Nyeh0001jogo)](https://replit.com/@Nyeh0001/jogo)
+[![Run on Repl.it](https://repl.it/badge/github/Nyeh0001/jogo)](https://replit.com/@Nyeh0001/jogo)
