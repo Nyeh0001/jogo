@@ -6,5 +6,5 @@
 <img src="https://i.imgur.com/pQ1jvjt.png">
 
 # Quem quiser ver um pouco do jogo e também tenha interesse em jogar, o link está logo abaixo:
-
+# Obs: Clique na imagem, você manualmente será redirecionado pro link na replit
 [![Run on Repl.it](https://repl.it/badge/github/Nyeh0001/jogo)](https://replit.com/@Nyeh0001/jogo)
